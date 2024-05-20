@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![](https://skillicons.dev/icons?i=html,css,js,sass,php,threejs,wordpress)
 <hr> 
 
-![](https://skillicons.dev/icons?i=ai,ps,figma,discord,github,vscode)
+![](https://skillicons.dev/icons?i=ai,ps,figma,discord,github,,vscode)
 
 
 
